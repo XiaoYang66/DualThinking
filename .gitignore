@@ -1,0 +1,10 @@
+*config*
+.vscode
+*__pycache__*
+/data/*
+*.log
+*.out
+./log/*
+log/
+train/
+.DS_Store
